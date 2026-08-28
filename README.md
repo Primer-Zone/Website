@@ -2,10 +2,10 @@ Here is the final, stabilized index.html code for the main Primer Zone Orbital R
 Required Assets List
 1. Local Files (Must be in the same folder as index.html):
 jupiter.jpg (Your custom infrared polygon image)
-saturn.jpg (Your updated saturn_2.jpg file, renamed to saturn.jpg to match the code)
+saturn.jpg 
 uranus.jpg (The base Uranus texture)
 uranus7.png (The NASA Eyes heptagon reference for the UI inset)
-2. Remote Assets (Loaded automatically via URL):
+3. Remote Assets (Loaded automatically via URL):
 Earth Texture: [https://raw.githubusercontent.com/mrdoob/three.js/master/examples/textures/planets/earth_atmos_2048.jpg](https://raw.githubusercontent.com/mrdoob/three.js/master/examples/textures/planets/earth_atmos_2048.jpg)
 Libraries: Tailwind CSS, Three.js (r128), and GSAP (3.12.2) via CDN.
 Fonts: Inter and Rajdhani via Google Fonts.
