@@ -1,0 +1,23 @@
+{
+  "id": "saturn_hexagon_iss_w1749823807",
+  "target": "Saturn",
+  "region": "North Polar Region",
+  "instrument": "Cassini ISS Wide Angle Camera",
+  "observation_id": "co-iss-w1749823807",
+  "filters": [
+    "CB2",
+    "CL2"
+  ],
+  "source": "NASA PDS OPUS",
+  "source_product": "W1749823807_1_CALIB",
+  "image": "outputs/screenshots/ISS_W1749823807_DS9_zscale.png",
+  "scientific_file": "data/fits/iss/W1749823807_1_CALIB.fits",
+  "processing": "PDS3 → FITS",
+  "calibration": "OPUS CISSCAL calibrated product; no additional calibration",
+  "validation": {
+    "dimensions": "512x512",
+    "ds9_verified": true
+  },
+  "publication_ready": true,
+  "website_ready": true
+}

@@ -1,0 +1,33 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ISIS runtime logs
+print.prt
+*.prt
+
+# Temporary and duplicate downloads
+data/original/**/*.zip
+*.part
+
+# Scientific binary products
+*.IMG
+*.img
+*.QUB
+*.qub
+*.cub
+*.fits
+
+# Optional runtime logs
+outputs/logs/
