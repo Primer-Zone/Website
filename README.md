@@ -9,7 +9,7 @@ uranus7.png (The NASA Eyes heptagon reference for the UI inset)
 Earth Texture: [https://raw.githubusercontent.com/mrdoob/three.js/master/examples/textures/planets/earth_atmos_2048.jpg](https://raw.githubusercontent.com/mrdoob/three.js/master/examples/textures/planets/earth_atmos_2048.jpg)
 Libraries: Tailwind CSS, Three.js (r128), and GSAP (3.12.2) via CDN.
 Fonts: Inter and Rajdhani via Google Fonts.
-Data Link: [https://zenodo.org/records/18395134](https://zenodo.org/records/18395134) (Your updated Zenodo archive link).
+Data Link: [https://zenodo.org/records/18395134, https://zenodo.org/records/18487338, https://zenodo.org/records/19322599](https://zenodo.org/records/18395134) (Your updated Zenodo archive link).
 The Primer Zone: index.html
 <!DOCTYPE html>
 <html lang="en">
